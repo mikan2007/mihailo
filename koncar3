@@ -1,0 +1,6 @@
+#include<iostream>
+main(){
+  int a,b,c;
+  cin>>a;
+  cout<<a;
+}
